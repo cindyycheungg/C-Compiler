@@ -3,7 +3,6 @@
 #include <map>
 #include <vector>
 #include <iostream>
-
 using namespace std;
 
 const vector <string> terminalSymbols = {"BOF", "BECOMES", "COMMA", "ELSE", "EOF", "EQ", "GE", "GT", "ID", "IF", "INT", "LBRACE", "LE", "LPAREN",
